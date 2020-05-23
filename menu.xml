@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+	<item
+		android:layout_width="10dp"
+		android:id="@+id/Ra"
+        android:title="▶" 
+		android:showAsAction="always|withText"/>
+	<item
+		android:layout_width="10dp"
+		android:id="@+id/Re"
+        android:title="↻" 
+		android:showAsAction="always|withText"/>
+	<item
+		android:layout_width="10dp"
+		android:id="@+id/Pa"
+        android:title="||" 
+		android:showAsAction="always|withText"/>
+	<item
+		android:layout_width="10dp"
+		android:id="@+id/St"
+        android:title="■" 
+		android:showAsAction="always|withText"/>
+	
+</menu>
+<!--android:icon="@android:drawable/ic_menu_send"-->
